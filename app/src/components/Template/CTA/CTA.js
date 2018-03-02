@@ -9,4 +9,4 @@ const cta = () => {
   );
 };
 
-export default cta;
+export default Cta;

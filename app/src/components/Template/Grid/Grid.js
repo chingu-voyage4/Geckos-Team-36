@@ -9,4 +9,4 @@ const grid = () => {
   );
 };
 
-export default grid;
+export default Grid;

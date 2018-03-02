@@ -9,4 +9,4 @@ const divider = () => {
   );
 };
 
-export default divider;
+export default Divider;
